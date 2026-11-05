@@ -1,0 +1,7 @@
+create:
+python -m venv .venv
+
+activate:
+.\.venv\Scripts\Activate.ps1
+or 
+.venv\Scripts\activate
